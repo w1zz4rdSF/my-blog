@@ -35,7 +35,7 @@ A brief description of what this project does and who it's for!
 
 #### add(num1, num2)
 
-Takes two numbers and returns the sum.
+Takes two numbers and returns the product!
 
 
 ## Contributing
